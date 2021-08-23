@@ -1,4 +1,5 @@
 # TK-VeriBilimiveAnalitik
 
 Dosyaya erişmek için;
-## !git clone https://github.com/tolgakurtuluss/TK-VeriBilimiveAnalitik
+
+!git clone https://github.com/tolgakurtuluss/TK-VeriBilimiveAnalitik
