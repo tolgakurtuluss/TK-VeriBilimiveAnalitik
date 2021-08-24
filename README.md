@@ -1,4 +1,4 @@
-# TK-VeriBilimiveAnalitik
+# TK-VeriBilimiveAnalitik - Hands-on Project
 
 Dosyaya erişmek için;
 
